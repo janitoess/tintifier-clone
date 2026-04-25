@@ -1,4 +1,4 @@
-# Tintifier Clone 🎨
+# Tintifier 🎨
 
 A simple browser-based image tinting tool.
 
