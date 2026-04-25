@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tintifier Clone</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>Tintifier Clone</h1>
+
+  <div class="controls">
+    <input type="file" id="upload">
+    <input type="color" id="colorPicker" value="#ff0000">
+    <input type="range" id="intensity" min="0" max="100" value="40">
+    
+    <button onclick="applyTint()">Apply Tint</button>
+    <button onclick="download()">Download</button>
+  </div>
+
+  <canvas id="canvas"></canvas>
+
+  <script src="script.js"></script>
+</body>
+</html>
