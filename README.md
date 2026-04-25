@@ -14,9 +14,3 @@ A simple browser-based image tinting tool.
 3. Adjust intensity
 4. Click "Apply Tint"
 5. Download your image
-
-## Deployment (GitHub Pages)
-1. Upload files to a GitHub repo
-2. Go to Settings → Pages
-3. Select branch: `main`
-4. Save
